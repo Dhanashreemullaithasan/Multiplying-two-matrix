@@ -5,12 +5,15 @@
 ## ALGORITHM:
 
 ### Step 1:
-
+Start the program
 ### Step 2:
+Enter the row and column of the first matrix
 ### Step 3:
+Enter the row and column of the second matrix
 ### Step 4:
+Enter the elements of the first matrix
 ### Step 5:
-
+Enter the elements of the second matrix
 ## PROGRAM: 
 
 import numpy as np
