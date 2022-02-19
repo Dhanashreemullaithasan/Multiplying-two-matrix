@@ -1,7 +1,7 @@
 # Multiplying-two-matrix
 
 ## AIM:
-
+To find the Multiplying-two-matrix
 ## ALGORITHM:
 
 ### Step 1:
@@ -33,4 +33,4 @@ print('Product of two arrays is:',product)
 ![GitHub Logo](/image.png)
 
 ## RESULT:
-
+Thus the multiplying-two-matrix is implemented using the python programming
